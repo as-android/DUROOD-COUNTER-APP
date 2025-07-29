@@ -59,7 +59,7 @@ This app is made with sincere intentions to promote Durood recitation. Despite o
 
 Send suggestions, errors, or feedback to:
 
-📧 **duroodcounter@gmail.com**
+📧 **asifkhan78six@gmail.com**
 
 ---
 
