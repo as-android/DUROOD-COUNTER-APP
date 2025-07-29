@@ -23,20 +23,18 @@ A beautifully designed Islamic app to help Muslims count and recite various **Du
   <img src="screenshots/addscreen.jpg" width="200"/>
   <img src="screenshots/aboutscreen.jpg" width="200">
   <img src="screenshots/counterscreen.jpg" width="200"/>
-  <img src="screenshots/countingscreen.jpg.jpg" width="200"/>
+  <img src="screenshots/countingscreen.jpg" width="200"/>
   <img src="screenshots/previewscreen.jpg" width="200">
   <img src="screenshots/duroodlistscreen.jpg" width="200"/>
 </p>
 
-> _(Replace `screen1.png`, etc., with your actual filenames)_
 
----
 
 ## 📦 Download APK
 
 You can download the latest version directly from GitHub:
 
-👉 [**Click here to download**](https://github.com/your-username/your-repo-name/releases/latest)
+👉 [**Click here to download**](https://github.com/as-android/DUROOD-COUNTER-APP/releases/latest)
 
 > No Play Store? No problem — just install the `.apk` manually!
 
@@ -44,7 +42,7 @@ You can download the latest version directly from GitHub:
 
 ## 📤 How to Install
 
-1. Download the `.apk` file from the [releases](https://github.com/your-username/your-repo-name/releases) page
+1. Download the `.apk` file from the [releases](https://github.com/as-android/DUROOD-COUNTER-APP/releases) page
 2. Open it on your Android device
 3. Allow unknown sources if prompted
 4. Install and enjoy 💖
